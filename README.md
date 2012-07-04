@@ -18,7 +18,7 @@ Part 1: Overview.
 	MyBatis 	-- As a database framework to programe DAO project.
 	SpringIoC/Anno  -- As the component to manage the beans.
 	Jackson2        -- Let the REST api return json string.
-	RESTfur/Jersey  -- Offer the REST api for the user.
+	RESTful/Jersey  -- Offer the REST api for the user.
 	
 	SpringMVC	-- For web project.
 	Tiles		-- For web project.
