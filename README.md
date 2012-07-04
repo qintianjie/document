@@ -25,7 +25,7 @@ Tiles		-- For web project.
 JSTL  		-- For web project.
 	
 
-Part 1: REST api.
+Part 2: REST api.
 
 	The sample was in user-rest project, that include user-rest-dao, user-rest-service, user-rest-api projects, also include the public projects: logger-slf4j-deps, mybatis-basemapper.
 	
@@ -38,7 +38,7 @@ Part 1: REST api.
 		 * GET: /user?email=XXX, get user by email.
 
 
-Part 2: Web project.
+Part 3: Web project.
 
 	The sample was in user-rest and user-register projects. That include user-rest-dao, user-rest-service, user-register-webcomponent, user-register-web, also include the public projects: logger-slf4j, mybatis-basemapper. 
 	
