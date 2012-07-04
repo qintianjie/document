@@ -5,24 +5,24 @@ Part 1: Overview.
 
 	The sample include two part in web programe:  REST & WEB. Use the following skills:
 
-Linux OS
-MySQL
-Maven   	-- Use parent-child to manage the project. 
-		-- Configure jetty in the project to run and debut the project.
-		-- Use Tag, Branch, Trunk to manage the version.
-
-Git/GitHub  	-- Manage the project.
-JUnit   	-- Write the test case to make the DB test automatically.
-Log     	-- Log the information by the level.
-
-MyBatis 	-- As a database framework to programe DAO project.
-SpringIoC/Anno  -- As the component to manage the beans.
-Jackson2        -- Let the REST api return json string.
-RESTfur/Jersey  -- Offer the REST api for the user.
-
-SpringMVC	-- For web project.
-Tiles		-- For web project.
-JSTL  		-- For web project.
+	Linux OS
+	MySQL
+	Maven   	-- Use parent-child to manage the project. 
+			-- Configure jetty in the project to run and debut the project.
+			-- Use Tag, Branch, Trunk to manage the version.
+	
+	Git/GitHub  	-- Manage the project.
+	JUnit   	-- Write the test case to make the DB test automatically.
+	Log     	-- Log the information by the level.
+	
+	MyBatis 	-- As a database framework to programe DAO project.
+	SpringIoC/Anno  -- As the component to manage the beans.
+	Jackson2        -- Let the REST api return json string.
+	RESTfur/Jersey  -- Offer the REST api for the user.
+	
+	SpringMVC	-- For web project.
+	Tiles		-- For web project.
+	JSTL  		-- For web project.
 	
 
 Part 2: REST api.
