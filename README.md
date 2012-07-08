@@ -19,10 +19,12 @@ Part 1: Overview.
 	SpringIoC/Anno  -- As the component to manage the beans.
 	Jackson2        -- Let the REST api return json string.
 	RESTful/Jersey  -- Offer the REST api for the user.
+	SpringAOP	-- A sample use AOP send mail during create and update a user.
 	
 	SpringMVC	-- For web project.
 	Tiles		-- For web project.
 	JSTL  		-- For web project.
+	Velocity    	-- Template for send mail.
 	
 
 Part 2: REST api.
