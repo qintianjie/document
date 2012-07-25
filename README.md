@@ -9,7 +9,7 @@ Part 1: Overview.
 	Linux OS
 	MySQL
 	Maven   	-- Use parent-child to manage the project. 
-			-- Configure jetty in the project to run and debut the project.
+			-- Configure jetty in the project to run and debug the project.
 			-- Use Tag, Branch, Trunk to manage the version.
 	
 	Git/GitHub  	-- Manage the project.
