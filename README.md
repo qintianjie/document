@@ -1,6 +1,7 @@
 document
 ========
 
+
 Part 1: Overview.
 
 	The sample include two part in web programe:  REST & WEB. Use the following skills:
@@ -27,6 +28,8 @@ Part 1: Overview.
 	Tiles			-- For web project.
 	JSTL  			-- For web project.
 	Velocity    		-- Template for send mail.
+	
+	Spring Security3        -- For security module.
 	
 
 Part 2: REST api.
